@@ -84,8 +84,10 @@ A swipe-based job matching platform where AI parses your CV, understands your pr
 
 Built by a 2-person team.
 
-| Gülfem Küpeli |
-| Hasan Hazırbulan | 
+| Member | Profile |
+| :--- | :--- |
+| **Gülfem Küpeli** | [@GulfemKupeli](https://github.com/GulfemKupeli) |
+| **Hasan Hazırbulan** | [@hasanhazirbulan](https://github.com/hasanhazirbulan) |
 
 ---
 
